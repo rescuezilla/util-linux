@@ -30,6 +30,7 @@
 #endif
 #include <assert.h>
 #include <poll.h>
+#include <sys/sysmacros.h>
 
 #include <libmount.h>
 

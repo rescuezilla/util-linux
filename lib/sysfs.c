@@ -6,6 +6,7 @@
 #include "at.h"
 #include "pathnames.h"
 #include "sysfs.h"
+#include <sys/sysmacros.h>
 
 char *sysfs_devno_attribute_path(dev_t devno, char *buf,
 				 size_t bufsiz, const char *attr)

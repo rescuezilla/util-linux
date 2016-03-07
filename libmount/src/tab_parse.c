@@ -9,6 +9,7 @@
 #include <limits.h>
 #include <dirent.h>
 #include <fcntl.h>
+#include <sys/sysmacros.h>
 
 #include "at.h"
 #include "mangle.h"

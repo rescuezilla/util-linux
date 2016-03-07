@@ -18,6 +18,7 @@
 #include <sys/stat.h>
 #include <ctype.h>
 #include <sys/param.h>
+#include <sys/sysmacros.h>
 #ifdef __APPLE__
 #include <sys/ucred.h>
 #include <sys/mount.h>
